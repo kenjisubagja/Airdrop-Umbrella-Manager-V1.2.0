@@ -1,6 +1,6 @@
 # 🌂 Airdrop Umbrella Manager v1.2.0
 
-**Airdrop Umbrella Manager V1.2.0** adalah aplikasi yang update dari versi sebelum nya [V1.0.0](https://github.com/kenjisubagja/Airdrop-Umbrella-Manager) dan ambil: web/mobile/Desktop sederhana untuk mengelola aktivitas airdrop, pendapatan, bridge, faucet, dan pengeluaran.  
+**Airdrop Umbrella Manager V1.2.0** adalah aplikasi yang update dari versi sebelum nya [V1.0.0](https://github.com/kenjisubagja/Airdrop-Umbrella-Manager) mobile/Desktop sederhana untuk mengelola aktivitas airdrop, pendapatan, bridge, faucet, dan pengeluaran.  
 Didesain dengan tampilan **dark mode minimalis**, cocok digunakan langsung di-*install* sebagai aplikasi android atau desktop.
 
 ---
