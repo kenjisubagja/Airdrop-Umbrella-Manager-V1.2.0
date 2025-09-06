@@ -25,22 +25,26 @@ Didesain dengan tampilan **dark mode minimalis**, cocok digunakan langsung di-*i
 
 ---
 
-## 📸 Preview
+## 📸 Preview Desktop
 
 ### Dashboard
-![Dashboard Screenshot](docs/screenshots/dashboard.png)
+![Dashboard Screenshot](docs/screenshots/dashpc.png)
 
 ### Catatan Pendapatan
-![Income Screenshot](docs/screenshots/income.png)
+![Income Screenshot](docs/screenshots/incomepc.png)
+---
+## 📸 Preview Android
+### Dashboard
+![Dashboard Screenshot](docs/screenshots/dashandro.jpg)
 
-### Info Bridge & Faucet
-![Bridge Faucet Screenshot](docs/screenshots/bridge-faucet.png)
-
+### Catatan Pendapatan
+![Income Screenshot](docs/screenshots/andro.jpg)
 ---
 
-## 🚀 Instalasi & Penggunaan
-
-1. Clone repo:
-   ```bash
-   git clone https://github.com/USERNAME/airdrop-umbrella-manager.git
-   cd airdrop-umbrella-manager
+## 📦 Unduh aplikasi (Tinggal install tanpa mengahpus data lama kalian)
+Masuk ke halaman **[Releases](https://github.com/kenjisubagja/Airdrop-Umbrella-Manager-v1.2.0/releases)** dan ambil:
+- `Airdrop-Umbrella-Manager-Setup-1.2.0.exe` → **Installer** (disarankan)  
+  Membuat **shortcut di Desktop & Start Menu** otomatis.
+- `Airdrop-Umbrella-Manager-Portable-1.2.0.exe` → **Portable** (tanpa instal; **tidak** membuat shortcut otomatis).
+- `Android-V1.2.0.apk` → ini buat user android note ya, pasti ada keterangan dari play protect, ijinkan aja, kalau pun di scan juga gpp kok
+---
