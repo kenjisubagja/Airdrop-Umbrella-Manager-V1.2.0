@@ -1,7 +1,7 @@
 # Airdrop Umbrella Manager
 
 <p align="center">
-  <a href="https://github.com/kenjisubagja/Airdrop-Umbrella-Manager/releases">
+  <a href="https://github.com/kenjisubagja/Airdrop-Umbrella-ManagerV1.2.0/releases">
     <img src="https://img.shields.io/github/v/release/kenjisubagja/Airdrop-Umbrella-Manager?sort=semver&label=rilis" alt="rilis terbaru">
   </a>
   <a href="https://github.com/kenjisubagja/Airdrop-Umbrella-Manager/releases">
