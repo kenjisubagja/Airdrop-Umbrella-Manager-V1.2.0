@@ -1,6 +1,6 @@
 # 🌂 Airdrop Umbrella Manager v1.2.0
 
-**Airdrop Umbrella Manager** adalah aplikasi web/mobile/Desktop sederhana untuk mengelola aktivitas airdrop, pendapatan, bridge, faucet, dan pengeluaran.  
+**Airdrop Umbrella Manager V1.2.0** adalah aplikasi yang update dari versi sebelum nya [V1.0.0](https://github.com/kenjisubagja/Airdrop-Umbrella-Manager) dan ambil: web/mobile/Desktop sederhana untuk mengelola aktivitas airdrop, pendapatan, bridge, faucet, dan pengeluaran.  
 Didesain dengan tampilan **dark mode minimalis**, cocok digunakan langsung di-*install* sebagai aplikasi android atau desktop.
 
 ---
@@ -48,3 +48,12 @@ Masuk ke halaman **[Releases](https://github.com/kenjisubagja/Airdrop-Umbrella-M
 - `Airdrop-Umbrella-Manager-Portable-1.2.0.exe` → **Portable** (tanpa instal; **tidak** membuat shortcut otomatis).
 - `Android-V1.2.0.apk` → ini buat user android note ya, pasti ada keterangan dari play protect, ijinkan aja, kalau pun di scan juga gpp kok
 ---
+## 🔐 Data & Privasi
+- Disimpan lokal (per-user, per-device) di folder data aplikasi.
+- Tidak ada server, akun, atau telemetri.
+- Uninstall akan menghapus data lokal aplikasi.
+## Support buat aing biar gk malas 
+[Traktir Cendol](https://trakteer.id/kenji_subagja/tip)
+## Contact Me: 
+[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/kenjisubagja)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/kenjisubagja)
