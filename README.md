@@ -24,6 +24,43 @@ Didesain dengan tampilan **dark mode minimalis**, cocok digunakan langsung di-*i
   - Full responsive, ringan, bisa dipasang sebagai aplikasi
 
 ---
+## 📋 Pengertian Tombol di Garapan untuk android
+
+🔗 Buka
+Untuk membuka link resmi dari garapan (misalnya link ke website airdrop, form, atau platform).
+→ Akan menampilkan opsi Buka via browser lain atau Salin link di HP.
+
+✅ / 🗑️ Hari Ini
+
+✅ : Tandai garapan sudah dikerjakan hari ini.
+
+🗑️ : Jika sudah ditandai, tombol berubah jadi hapus tanda hari ini.
+→ Membantu kamu tracking aktivitas harian.
+
+🏁 END
+Digunakan ketika garapan sudah selesai/beres.
+Saat ditekan, akan diminta input jumlah income (USD) yang berhasil didapat dari garapan tersebut.
+→ Garapan otomatis dipindahkan ke status END.
+
+✏️ Edit
+Untuk mengubah detail garapan (nama, link, deskripsi tugas, jumlah akun, dll).
+→ Berguna kalau ada salah input atau ada update informasi.
+
+❌ Hapus
+Menghapus garapan dari daftar.
+→ Data garapan tersebut akan hilang permanen dari localStorage.
+
+📌 Catatan
+
+Status Garapan:
+
+Ongoing = masih berjalan
+
+END = sudah selesai
+Checklist Harian (✅/🗑️) akan direset otomatis setiap hari, sehingga kamu bisa track mana yang sudah dikerjakan hari ini.
+
+---
+
 
 ## 📸 Preview Desktop
 
